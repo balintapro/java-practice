@@ -1,4 +1,4 @@
-package com.innruptive.movies.application;
+package com.innruptive.movies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
