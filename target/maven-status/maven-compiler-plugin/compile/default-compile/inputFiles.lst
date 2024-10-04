@@ -1,0 +1,11 @@
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/MoviesApplication.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/adapter/controller/HealthCheckController.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/adapter/controller/HelloController.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/adapter/controller/MovieController.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/adapter/controller/ReviewController.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/core/domain/Movie.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/core/domain/Review.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/core/repository/MovieRepository.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/core/repository/ReviewRepository.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/service/MovieService.java
+/Users/balint/projects/java-practice/src/main/java/com/innruptive/movies/service/ReviewService.java

@@ -1,0 +1,12 @@
+com/innruptive/movies/adapter/controller/MovieController.class
+com/innruptive/movies/MoviesApplication.class
+com/innruptive/movies/service/MovieService.class
+com/innruptive/movies/core/repository/MovieRepository.class
+com/innruptive/movies/adapter/controller/HealthCheckController.class
+com/innruptive/movies/core/repository/ReviewRepository.class
+com/innruptive/movies/adapter/controller/HelloController.class
+com/innruptive/movies/MoviesApplication$1.class
+com/innruptive/movies/core/domain/Review.class
+com/innruptive/movies/core/domain/Movie.class
+com/innruptive/movies/adapter/controller/ReviewController.class
+com/innruptive/movies/service/ReviewService.class
